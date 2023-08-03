@@ -47,3 +47,20 @@ python3 source_article_text_downloader.py
 
 2. The command will take some time to download all the data. At the end, a file called ```Multi-GeNews-With-Text.jsonl``` will be created, containing the downloaded
    source articles.
+
+## Reference
+
+When using the Multi-GeNews dataset for research purposes, please cite:
+
+```
+    @inproceedings{mascarell-etal-2023-entropy,
+        title = "Entropy-based Sampling for Abstractive Multi-document Summarization in Low-resource Settings.",
+        author = {Mascarell, Laura and Chalumattu, Ribin and Heitmann, Julien},
+        booktitle = "Proceedings of the 16th International Conference on Natural Language Generation",
+        month = sep,
+        year = "2023",
+        address = "Prague, Czech Republic",
+        publisher = "Association for Computational Linguistics",
+        url = "https://doi.org/10.3929/ethz-b-000624074"
+}
+```
