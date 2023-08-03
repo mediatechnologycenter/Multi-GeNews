@@ -50,17 +50,17 @@ python3 source_article_text_downloader.py
 
 ## Reference
 
-When using the Multi-GeNews dataset for research purposes, please cite:
+When using the Multi-GeNews dataset, please cite:
 
-```
-    @inproceedings{mascarell-etal-2023-entropy,
-        title = "Entropy-based Sampling for Abstractive Multi-document Summarization in Low-resource Settings.",
-        author = {Mascarell, Laura and Chalumattu, Ribin and Heitmann, Julien},
-        booktitle = "Proceedings of the 16th International Conference on Natural Language Generation",
-        month = sep,
-        year = "2023",
-        address = "Prague, Czech Republic",
-        publisher = "Association for Computational Linguistics",
-        url = "https://doi.org/10.3929/ethz-b-000624074"
+```bibtex
+@inproceedings{mascarell-etal-2023-entropy,
+    title = "Entropy-based Sampling for Abstractive Multi-document Summarization in Low-resource Settings.",
+    author = {Mascarell, Laura and Chalumattu, Ribin and Heitmann, Julien},
+    booktitle = "Proceedings of the 16th International Conference on Natural Language Generation",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://doi.org/10.3929/ethz-b-000624074"
 }
 ```
