@@ -1,5 +1,5 @@
 # Multi-GeNews
-
+<img src="images/logo.png" alt="image" width="300" height="auto">  <br/>
 Due to the lack of German multi-document summarization data,
 we have created a new mds dataset called 'Multi-GeNews'. This dataset contains news articles
 sourced from the news portal of SRF, a Swiss media company. The included articles span from January to March 2020.\
